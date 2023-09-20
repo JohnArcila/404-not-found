@@ -64,6 +64,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website https://{your-web-site-link
+- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@your-username](https://{github.com/JohnArcila})
 - Twitter [@your-twitter](https://{twitter.com/_jimmy626_})
