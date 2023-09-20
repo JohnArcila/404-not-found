@@ -29,9 +29,9 @@
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML5](https://html5up.net/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 ## Features
 
