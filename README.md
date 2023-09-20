@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://65086c7cca32910dc9f41fc7--keen-pothos-68e0ee.netlify.app/)
+![screenshot]([https://65086c7cca32910dc9f41fc7--keen-pothos-68e0ee.netlify.app/](https://github.com/JohnArcila/404-not-found/blob/main/index.html))
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
