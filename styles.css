@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono:wght@400;700&display=swap');
+
+/* font-family: 'Inconsolata', monospace;
+font-family: 'Space Mono', monospace; */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    
+}
+
+header{
+    margin: 40px;
+    padding: 20px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase ;
+
+}
+
+main{
+   width: 80%;
+   margin: 0 auto;
+}
+
+.contenido {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+img{
+    width: 540px;
+    height: 448px;
+    margin-right: 50px;
+}
+
+h1{
+    font-family: 'Space Mono', monospace; 
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.contenido p{
+    font-family: 'Space Mono', monospace; 
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 38px;
+
+}
+
+button{
+    width: 216px;
+    height: 68px;
+    margin-top: 40px;
+    background-color: #333333;
+    color: #fff;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    
+}
+
+footer{
+    padding: 20px;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    margin-top: auto;
+    font-size: 14px;
+    font-weight: 700;
+    color: #BDBDBD;
+
+}
+
+@media screen and (max-width: 768px){
+    .contenido {
+        flex-direction: column;
+        justify-content: center;
+        margin: auto;
+    }
+    .contenido img{
+        width: 286px;
+        height: 238px;
+        margin-bottom: 55px;
+    }
+   
+}
+
