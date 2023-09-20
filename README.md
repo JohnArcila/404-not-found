@@ -23,6 +23,7 @@
 ## Overview
 
 ![screenshot](https://github.com/JohnArcila/404-not-found/blob/main/img/screen.png)
+![screenshot](https://github.com/JohnArcila/404-not-found/blob/main/img/screen2.png)
 
 
 ### Built With
